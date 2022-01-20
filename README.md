@@ -1,4 +1,4 @@
-# dw2
+# VampFront
 
 ## Project setup
 ```
