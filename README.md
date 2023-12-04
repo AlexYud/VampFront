@@ -17,7 +17,7 @@
 </p>
 
 ## 💻 Project
--  A online web game where players need to guess who the traitor is.
+-  A online web game where players need to guess who the traitor is. Check it out [here](https://alpha-vamp-front.onrender.com)!
 
 ## 🚀 Technologies
 
