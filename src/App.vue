@@ -40,4 +40,6 @@ export default {
 body {
   background-color: var(--sidebar-item-active);
 }
+
+::-webkit-scrollbar {display:none;}
 </style>

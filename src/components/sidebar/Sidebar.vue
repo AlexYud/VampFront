@@ -30,6 +30,7 @@
       icon="fas fa-bible"
       replace>Personagens</SidebarLink
     >
+    <!--
     <SidebarLink
       :style="{ padding: itemWidth, marginLeft: itemLeft }"
       to="/login"
@@ -42,6 +43,7 @@
       icon="fas fa-cog"
       replace>Admin</SidebarLink
     >
+    -->
     <span
       class="collapse-icon"
       :class="{ 'rotate-180': collapsed }"

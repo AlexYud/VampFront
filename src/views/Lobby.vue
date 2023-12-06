@@ -5,7 +5,7 @@
       <table class="table is-fullwidth">
         <thead>
           <tr class="subtitle is-4">
-            <th>Esperando</th>
+            <th>Esperando mais {{ 5 - players }} jogador(es)...</th>
           </tr>
         </thead>
         <tbody>
