@@ -38,7 +38,7 @@ export default {
 }
 
 body {
-  background-color: var(--sidebar-item-active);
+  background: linear-gradient(90deg, var(--sidebar-item-active), 75%, var(--sidebar-item-hover));
 }
 
 ::-webkit-scrollbar {display:none;}

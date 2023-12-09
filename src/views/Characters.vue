@@ -60,7 +60,6 @@ export default {
 <style scoped>
 .characters {
   padding: 0em;
-  background: var(--sidebar-item-active);
 }
 
 h1.title {
@@ -73,9 +72,10 @@ h1.title {
   display: flex;
   flex-direction: column;
   height: 100%;
-  background: var(--sidebar-bg-color);
+  background: var(--sidebar-item-active);
   color: var(--text);
   border: solid 0.01em;
+  box-shadow: 0px 0px 10px var(--text);
 }
 
 .card-header-title {

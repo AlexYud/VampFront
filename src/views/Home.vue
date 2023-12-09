@@ -132,7 +132,8 @@ export default {
 }
 
 .is-child {
-  background-color: var(--sidebar-bg-color);
+  background: var(--sidebar-item-active);
+  box-shadow: 0px 0px 10px var(--text);
   color: var(--text);
   border: solid 0.01em;
 }

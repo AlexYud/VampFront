@@ -77,6 +77,7 @@ h1.title {
 .box {
   background: var(--sidebar-bg-color);
   border: var(--text) solid 0.01em;
+  box-shadow: 0px 0px 10px var(--text);
 }
 
 .input {
