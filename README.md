@@ -26,6 +26,8 @@ This project was developed using the following technologies:
 - Vue.js
 - Bulma
 
+- **If you're using Node version 16+, set NODE_OPTIONS=--openssl-legacy-provider**
+
 ## 📝 License
 
 This project is under the MIT license. See the [LICENSE](https://opensource.org/licenses/MIT) for more details.
